@@ -11,3 +11,6 @@ MERN-Blog WebApp
 
 - Download Router for React
 --npm i react-router-dom
+
+- Download Flowbite
+npm i flowbite-react
